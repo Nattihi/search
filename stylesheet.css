@@ -1,0 +1,23 @@
+input {
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid rgb(194, 184, 184);
+      
+    
+}
+
+select{
+    background: transparent;
+    border: none;
+    outline: none;
+    width:16cm;  
+    font-weight: bold;
+    font-size: 11px;
+    
+}
+
+style{
+    font-family: arial,sans-serif;
+}
+
