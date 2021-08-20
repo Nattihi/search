@@ -4,6 +4,7 @@ Link to youtube demonstration of search:
 https://youtu.be/loN5BwcslWM
 
 Assignment of CS50 Web Project 0 search
+Note: fontawesome-free-5.15.3-web is part of code but not included in files
 
 Specification
 Your website must meet the following requirements.
